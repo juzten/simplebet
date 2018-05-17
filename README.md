@@ -14,6 +14,13 @@ Note: Built using python 3.6.4 but any version of python 3 should work
 * Pip
 * Virtualenv or similar (optional)
 
+### Activate environment
+
+```
+source venv/bin/activate
+cd simplebet
+
+```
 
 ### Install python packages
 
