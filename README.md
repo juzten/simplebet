@@ -19,7 +19,6 @@ Note: Built using python 3.6.4 but any version of python 3 should work
 ```
 source venv/bin/activate
 cd simplebet
-
 ```
 
 ### Install python packages
